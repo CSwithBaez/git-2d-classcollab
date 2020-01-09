@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Test Collab.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/SuzukiTest.unity
+  isLoaded: 1
+  isActive: 1
